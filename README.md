@@ -1,4 +1,11 @@
 ### Hi there 👋
+**Welcome to my GitHub Page**
+
+💬 I'm 20 years old living in California
+
+🌱 Studying Computer Science at Palomar College in San Marcos, CA
+
+⚡ Managing Director over at [@elele.team](https://github.com/Elele-Team)
 
 <!--
 **kikocodes/kikocodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
